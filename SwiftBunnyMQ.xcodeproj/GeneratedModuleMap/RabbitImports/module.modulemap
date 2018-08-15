@@ -1,0 +1,4 @@
+module RabbitImports {
+    umbrella "/Users/jabwd/Developer/Repositories/SwiftBunnyMQ/Sources/RabbitImports"
+    export *
+}

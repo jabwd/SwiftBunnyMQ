@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CRabbitMQ",
+        "repositoryURL": "/Users/jabwd/Developer/Repositories/CRabbitMQ",
+        "state": {
+          "branch": "master",
+          "revision": "5ee9249d4db4974b41317c18937c685fb5d07e99",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
